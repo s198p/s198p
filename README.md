@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am an Engineering graduate with a passion for new technologies and<br>      a collaborative, team player who is also experienced in team leading <br>      and      executing goal-oriented projects and currently exploring the web<br>      development technologies.<br>💬 Ask me about HTML5, CSS3, Javascript, React.js<br>📧      sumtsp198@gmail.com<br> 📍  Pune, India.
+🌱 An Engineering graduate with a passion for new technologies and<br>      a collaborative, team player who is also experienced in team leading <br>      and      executing goal-oriented projects and currently exploring the web<br>      development technologies.<br>💬 Ask me about HTML5, CSS3, Javascript, React.js<br>📧      sumtsp198@gmail.com<br> 📍  Pune, India.
 
 
 ## 🌐 Socials:
